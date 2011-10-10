@@ -1,0 +1,19 @@
+{
+  "name": "wmd",
+  "description": "WMD - wanton markdown - a markdown parser based on showdown",
+  "version": "0.0.1",
+  "private": true,
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffbski/wmd.git"
+  },
+  "main": "lib/wmd.js",
+  "engines": {
+    "node": "0.4"
+  },
+  "dependencies": {
+    "jsdom" : "https://github.com/tmpvar/jsdom/tarball/0.1.16",
+    "htmlparser" : "~1.7.3"
+  },
+  "devDependencies": {}
+}
