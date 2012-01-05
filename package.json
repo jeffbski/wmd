@@ -1,7 +1,7 @@
 {
   "name": "wmd",
   "description": "WMD - wanton markdown - a markdown parser based on showdown",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
    "repository": {
     "type": "git",
@@ -9,7 +9,7 @@
   },
   "main": "lib/wmd.js",
   "engines": {
-    "node": "0.4"
+    "node": "*"
   },
   "dependencies": {
     "jsdom" : "~0.2.7",
